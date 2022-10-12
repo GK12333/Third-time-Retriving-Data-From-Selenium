@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-12T18:33:37 IST" name="Suit" finished-at="2022-10-12T18:33:57 IST" duration-ms="19666">
+    <groups>
+    </groups>
+    <test started-at="2022-10-12T18:33:37 IST" name="orangebrowser" finished-at="2022-10-12T18:33:57 IST" duration-ms="19666">
+      <class name="workingWithJenkins.OrangeHrmLoginPage">
+        <test-method signature="Testlogin()[pri:0, instance:workingWithJenkins.OrangeHrmLoginPage@69e1dd28]" started-at="2022-10-12T18:33:38 IST" name="Testlogin" finished-at="2022-10-12T18:33:57 IST" duration-ms="19617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testlogin -->
+      </class> <!-- workingWithJenkins.OrangeHrmLoginPage -->
+    </test> <!-- orangebrowser -->
+  </suite> <!-- Suit -->
+</testng-results>
